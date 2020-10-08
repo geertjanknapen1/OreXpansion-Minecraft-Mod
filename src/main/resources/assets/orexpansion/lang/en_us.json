@@ -1,0 +1,15 @@
+{
+  "itemGroup.orexpansionTab": "OreXpansion",
+
+  "block.orexpansion.silver_ore_block": "Silver Ore",
+  "block.orexpansion.steel_ore_block": "Steel Ore",
+
+  "item.orexpansion.silver_ingot": "Silver Ingot",
+  "item.orexpansion.steel_ingot": "Steel Ingot",
+
+  "block.orexpansion.silver_block": "Silver Block",
+  "block.orexpansion.steel_block": "Steel Block",
+
+  "item.orexpansion.silver_sword": "Silver Sword",
+  "item.orexpansion.steel_sword": "Steel Sword"
+}

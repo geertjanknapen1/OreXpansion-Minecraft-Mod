@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "orexpansion:steel_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "orexpansion:steel_block",
+    "count": 1
+  }
+}
