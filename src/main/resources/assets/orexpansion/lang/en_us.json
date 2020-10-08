@@ -11,5 +11,8 @@
   "block.orexpansion.steel_block": "Steel Block",
 
   "item.orexpansion.silver_sword": "Silver Sword",
-  "item.orexpansion.steel_sword": "Steel Sword"
+  "item.orexpansion.steel_sword": "Steel Sword",
+
+  "item.orexpansion.silver_pickaxe": "Silver Pickaxe",
+  "item.orexpansion.steel_pickaxe": "Steel Pickaxe"
 }
