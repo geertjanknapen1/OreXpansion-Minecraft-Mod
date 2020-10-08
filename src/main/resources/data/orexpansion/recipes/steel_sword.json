@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " i ",
+    " i ",
+    " s "
+  ],
+  "key":
+  {
+    "i":
+    {
+      "item": "orexpansion:steel_ingot"
+    },
+    "s":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "orexpansion:steel_sword",
+    "count": 1
+  }
+}

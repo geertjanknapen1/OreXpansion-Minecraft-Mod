@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "iii",
+    " s ",
+    " s "
+  ],
+  "key":
+  {
+    "i":
+    {
+      "item": "orexpansion:steel_ingot"
+    },
+    "s":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "orexpansion:steel_pickaxe",
+    "count": 1
+  }
+}
