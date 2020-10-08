@@ -3,12 +3,15 @@
 
   "block.orexpansion.silver_ore_block": "Silver Ore",
   "block.orexpansion.steel_ore_block": "Steel Ore",
+  "block.orexpansion.copper_ore_block": "Copper Ore",
 
   "item.orexpansion.silver_ingot": "Silver Ingot",
   "item.orexpansion.steel_ingot": "Steel Ingot",
+  "item.orexpansion.copper_ingot": "Copper Ingot",
 
   "block.orexpansion.silver_block": "Silver Block",
   "block.orexpansion.steel_block": "Steel Block",
+  "block.orexpansion.copper_block": "Copper Block",
 
   "item.orexpansion.silver_sword": "Silver Sword",
   "item.orexpansion.steel_sword": "Steel Sword",

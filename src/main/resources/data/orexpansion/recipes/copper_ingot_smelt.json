@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "orexpansion:copper_ore_block"
+  },
+  "result": "orexpansion:copper_ingot",
+  "experience": 3.0,
+  "cookingtime": 350
+}
