@@ -6,7 +6,7 @@ import net.minecraft.item.Item;
 public class ItemBase extends Item {
 
     public ItemBase() {
-        super(new Item.Properties().group(OreXpansion.TAB));
+        super(new Item.Properties().group(OreXpansion.ITEMS_BLOCKS_TAB));
     }
 
 }

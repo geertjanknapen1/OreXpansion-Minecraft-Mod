@@ -38,10 +38,17 @@ public class OreXpansion
         //
     }
 
-    public static final ItemGroup TAB = new ItemGroup("orexpansionTab") {
+    public static final ItemGroup ITEMS_BLOCKS_TAB = new ItemGroup("orexpansionItemsBlocksTab") {
         @Override
         public ItemStack createIcon() {
-            return new ItemStack(ItemRegistryHandler.STEEL_INGOT.get());
+            return new ItemStack(BlockRegistryHandler.STEEL_BLOCK_ITEM.get());
+        }
+    };
+
+    public static final ItemGroup TOOLS_TAB = new ItemGroup("orexpansionToolsTab") {
+        @Override
+        public ItemStack createIcon() {
+            return new ItemStack(ToolRegistryHandler.STEEL_SWORD.get());
         }
     };
 }
