@@ -1,6 +1,6 @@
 {
-  "itemGroup.orexpansionTab": "OreXpansion Tab",
-  "itemGroup.orexpansionWeaponsTab": "OreXpansion Weapons Tab",
+  "itemGroup.orexpansionItemsBlocksTab": "OreXpansion Items & Blocks",
+  "itemGroup.orexpansionToolsTab": "OreXpansion Tools",
 
   "block.orexpansion.silver_ore_block": "Silver Ore",
   "block.orexpansion.steel_ore_block": "Steel Ore",

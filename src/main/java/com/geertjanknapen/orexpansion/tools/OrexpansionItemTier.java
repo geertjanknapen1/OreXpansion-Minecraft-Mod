@@ -16,7 +16,7 @@ public enum OrexpansionItemTier implements IItemTier {
         return Ingredient.fromItems(ToolRegistryHandler.SILVER_SWORD.get());
     }),
 
-    COPPER(3, 850, 7.0F, 1.5F, 17, () -> {
+    COPPER(3, 700, 7.0F, 1.5F, 17, () -> {
         return Ingredient.fromItems(ToolRegistryHandler.COPPER_SWORD.get());
     });
 
