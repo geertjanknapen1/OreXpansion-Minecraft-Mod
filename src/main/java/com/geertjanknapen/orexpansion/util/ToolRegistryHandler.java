@@ -20,19 +20,27 @@ public class ToolRegistryHandler {
 
     // Tools - Swords
     public static final RegistryObject<SwordItem> SILVER_SWORD = ItemRegistryHandler.ITEMS.register("silver_sword", () ->
-            new SwordItem(OrexpansionItemTier.SILVER, 3, -1.4F, new Item.Properties().group(OreXpansion.TAB))
+            new SwordItem(OrexpansionItemTier.SILVER, 3, -1.4F, new Item.Properties().group(OreXpansion.TOOL_TAB))
     );
 
     public static final RegistryObject<SwordItem> STEEL_SWORD = ItemRegistryHandler.ITEMS.register("steel_sword", () ->
-            new SwordItem(OrexpansionItemTier.STEEL, 4, -1.0F, new Item.Properties().group(OreXpansion.TAB))
+            new SwordItem(OrexpansionItemTier.STEEL, 4, -1.0F, new Item.Properties().group(OreXpansion.TOOL_TAB))
+    );
+
+    public static final RegistryObject<SwordItem> COPPER_SWORD = ItemRegistryHandler.ITEMS.register("copper_sword", () ->
+            new SwordItem(OrexpansionItemTier.COPPER, 3, -1.0F, new Item.Properties().group(OreXpansion.TOOL_TAB))
     );
 
     // Tools - Pickaxes
     public static final RegistryObject<PickaxeItem> SILVER_PICKAXE = ItemRegistryHandler.ITEMS.register("silver_pickaxe", () ->
-            new PickaxeItem(OrexpansionItemTier.SILVER, 0, 1.0F, new Item.Properties().group(OreXpansion.TAB))
+            new PickaxeItem(OrexpansionItemTier.SILVER, 0, 1.0F, new Item.Properties().group(OreXpansion.TOOL_TAB))
     );
 
     public static final RegistryObject<PickaxeItem> STEEL_PICKAXE = ItemRegistryHandler.ITEMS.register("steel_pickaxe", () ->
-            new PickaxeItem(OrexpansionItemTier.STEEL, 0, 1.0F, new Item.Properties().group(OreXpansion.TAB))
+            new PickaxeItem(OrexpansionItemTier.STEEL, 0, 1.0F, new Item.Properties().group(OreXpansion.TOOL_TAB))
+    );
+
+    public static final RegistryObject<PickaxeItem> COPPER_PICKAXE = ItemRegistryHandler.ITEMS.register("copper_pickaxe", () ->
+            new PickaxeItem(OrexpansionItemTier.COPPER, 0, 1.0F, new Item.Properties().group(OreXpansion.TOOL_TAB))
     );
 }

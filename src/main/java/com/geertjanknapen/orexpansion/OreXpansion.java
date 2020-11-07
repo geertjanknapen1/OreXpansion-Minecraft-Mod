@@ -44,4 +44,10 @@ public class OreXpansion
             return new ItemStack(ItemRegistryHandler.STEEL_INGOT.get());
         }
     };
+    public static final ItemGroup TOOL_TAB = new ItemGroup("orexpansionWeaponsTab") {
+        @Override
+        public ItemStack createIcon() {
+            return new ItemStack(ToolRegistryHandler.STEEL_SWORD.get());
+        }
+    };
 }

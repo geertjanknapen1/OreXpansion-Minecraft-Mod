@@ -14,6 +14,10 @@ public enum OrexpansionItemTier implements IItemTier {
 
     STEEL(3, 900, 7.5F, 1.0F, 18, () -> {
         return Ingredient.fromItems(ToolRegistryHandler.SILVER_SWORD.get());
+    }),
+
+    COPPER(3, 850, 7.0F, 1.5F, 17, () -> {
+        return Ingredient.fromItems(ToolRegistryHandler.COPPER_SWORD.get());
     });
 
     private final int harvestLevel;

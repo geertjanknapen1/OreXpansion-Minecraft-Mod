@@ -1,5 +1,6 @@
 {
-  "itemGroup.orexpansionTab": "OreXpansion",
+  "itemGroup.orexpansionTab": "OreXpansion Tab",
+  "itemGroup.orexpansionWeaponsTab": "OreXpansion Weapons Tab",
 
   "block.orexpansion.silver_ore_block": "Silver Ore",
   "block.orexpansion.steel_ore_block": "Steel Ore",
@@ -15,7 +16,9 @@
 
   "item.orexpansion.silver_sword": "Silver Sword",
   "item.orexpansion.steel_sword": "Steel Sword",
+  "item.orexpansion.copper_sword": "Copper Sword",
 
   "item.orexpansion.silver_pickaxe": "Silver Pickaxe",
-  "item.orexpansion.steel_pickaxe": "Steel Pickaxe"
+  "item.orexpansion.steel_pickaxe": "Steel Pickaxe",
+  "item.orexpansion.copper_pickaxe": "Copper Pickaxe"
 }
